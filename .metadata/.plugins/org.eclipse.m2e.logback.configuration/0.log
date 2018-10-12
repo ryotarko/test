@@ -138,3 +138,4 @@ java.net.SocketException: Software caused connection abort: recv failed
 2018-10-10 14:38:28,154 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
 2018-10-11 10:09:57,080 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
 2018-10-11 14:20:40,240 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2018-10-12 10:42:21,414 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
